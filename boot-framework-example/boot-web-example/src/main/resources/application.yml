@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Core-Example-Server
+
+cloud:
+  id: cloud-id-test
+  name: 小明
