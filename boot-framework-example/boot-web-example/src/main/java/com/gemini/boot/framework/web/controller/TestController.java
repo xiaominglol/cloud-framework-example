@@ -1,7 +1,7 @@
-package com.gemini.cloud.framework.web.controller;
+package com.gemini.boot.framework.web.controller;
 
+import com.gemini.boot.framework.web.entity.Test;
 import com.gemini.boot.framework.web.mvc.model.Message;
-import com.gemini.cloud.framework.web.entity.Test;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

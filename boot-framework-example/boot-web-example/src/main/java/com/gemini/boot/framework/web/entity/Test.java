@@ -1,4 +1,4 @@
-package com.gemini.cloud.framework.web.entity;
+package com.gemini.boot.framework.web.entity;
 
 import lombok.Data;
 

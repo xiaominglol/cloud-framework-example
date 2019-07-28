@@ -1,6 +1,5 @@
 package com.gemini.boot.framework.mybatis.vo;
 
-import com.baomidou.mybatisplus.annotation.TableName;
 import com.gemini.boot.framework.mybatis.po.BasePo;
 import lombok.Data;
 
