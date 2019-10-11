@@ -1,0 +1,3 @@
+com\gemini\cloud\framework\web\entity\Test.class
+com\gemini\cloud\framework\web\controller\TestController.class
+com\gemini\cloud\framework\web\WebExampleApplication.class
