@@ -14,11 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>com.gemini.cloud.framework</groupId>
-            <artifactId>cloud-web</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.gemini.cloud.framework</groupId>
-            <artifactId>cloud-apollo</artifactId>
+            <artifactId>cloud-apollo-client</artifactId>
         </dependency>
     </dependencies>
 </project>
