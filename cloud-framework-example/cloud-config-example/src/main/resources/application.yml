@@ -1,0 +1,11 @@
+app:
+  id: Cloud-Nacos
+spring:
+  application:
+    name: ${app.id}
+cloud:
+  name: 小明
+
+apollo:
+  bootstrap:
+    enabled: true

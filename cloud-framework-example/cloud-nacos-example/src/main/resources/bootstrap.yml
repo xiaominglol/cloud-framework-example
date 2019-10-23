@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: Cloud-Nacos
-cloud:
-  id: cloud-id-test
-  name: 小明
-

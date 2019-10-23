@@ -14,15 +14,13 @@
     <dependencies>
         <dependency>
             <groupId>com.gemini.cloud.framework</groupId>
-            <artifactId>cloud-core</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.gemini.boot.framework</groupId>
-            <artifactId>boot-web</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.gemini.cloud.framework</groupId>
-            <artifactId>cloud-nacos</artifactId>
+            <artifactId>cloud-service</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.gemini.boot.framework</groupId>
+                    <artifactId>boot-mybatis</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
